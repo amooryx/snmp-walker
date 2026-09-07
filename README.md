@@ -1,8 +1,8 @@
-﻿# snmp-walker
+# snmp-walker
 
 > Red team security tool — authorized use only.
 
-`ash
+```bash
 python snmp_walker.py --help
 ```
 
